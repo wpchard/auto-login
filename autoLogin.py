@@ -5,7 +5,7 @@ chrome = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 
 subprocess.Popen([
     chrome,
-    "--profile-directory=Profile 2",   # Replace with your school profile
+    "--profile-directory=Profile 2",
     "https://mail.google.com/"
 ])
 

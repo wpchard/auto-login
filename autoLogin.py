@@ -9,4 +9,4 @@ subprocess.Popen([
     "https://mail.google.com/"
 ])
 
-time.sleep(5)  # Wait for Chrome to open
+time.sleep(5)  # wait for chrome to open
